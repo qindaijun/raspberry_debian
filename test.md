@@ -26,4 +26,4 @@
 [![air](http://www.qg001.com/file/air.png "one dicm")](http://qy.qg001.com)  
 [秦瘦哥日誌](http://qy.qg001.com)  
 > 秦瘦哥曰：去留随意，宠辱不惊！  
-  
+> 你不入地狱，谁入地狱！  
