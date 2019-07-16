@@ -33,3 +33,4 @@
 ``` python
 print("hello word") 
 ``` 
+你好呀！看来谷歌拼音确实比较香香哦！
