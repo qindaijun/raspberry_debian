@@ -30,6 +30,6 @@
 > root 去吧，皮卡丘。
 
 ###  叉烧包
-```
+``` python
 print("hello word") 
 ``` 
